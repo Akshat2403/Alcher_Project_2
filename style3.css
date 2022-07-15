@@ -31,7 +31,7 @@ span{
     margin-top: 5%;
     margin-bottom: 5%;
     width: 400px;
-    height: 400px;
+    height: 410px;
     border-radius: 12px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     box-sizing: border-box;
@@ -106,13 +106,13 @@ span{
 input[type="file"]{
     margin: auto;
     width: 350px;
-    height: 200px;
+    height: 180px;
     border: 1px rgb(145,145,145) solid;
     
 }
 input[type="text"]{
     width: 350px;
-    height: 100px;
+    height: 80px;
 }
 button{
     width: 400px;
@@ -134,4 +134,14 @@ h3{
 .user_name{
     color: black;
     font-size: 14px;
-}   
+}
+.location{
+    padding:10px 0 10px 0 ;
+}
+.location h5{
+    padding:10px 0 10px 0 ;
+}
+.location h6{
+    font-size: 13px;
+    color: black;
+}
